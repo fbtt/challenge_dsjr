@@ -3,6 +3,9 @@ EnviarAoCandidato/email_a_ser_enviado.md
 # virtualenv
 venv/
 
+# vscode
+.vscode/
+
 .ipynb_checkpoints/
 
 catboost_info/
