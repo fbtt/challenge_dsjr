@@ -1,0 +1,10 @@
+EnviarAoCandidato/email_a_ser_enviado.md
+
+# virtualenv
+venv/
+
+.ipynb_checkpoints/
+
+catboost_info/
+
+
